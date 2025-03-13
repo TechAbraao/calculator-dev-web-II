@@ -1,3 +1,5 @@
+.idea/
+.idea
 node_modules/
 *.log
 logs/
@@ -7,7 +9,7 @@ build/
 package-lock.json
 npm-debug.log*
 .vscode/
-.idea/
+
 .DS_Store
 Thumbs.db
 .env
